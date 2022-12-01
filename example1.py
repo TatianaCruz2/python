@@ -6,3 +6,4 @@ if edad > 25:
 if edad > 65:
     print("Eres un Master") 
 
+
